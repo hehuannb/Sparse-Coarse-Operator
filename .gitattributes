@@ -1,3 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-spectrum/
+data/
+data/data/laplacian/fixed-xi/xi-100/data/
